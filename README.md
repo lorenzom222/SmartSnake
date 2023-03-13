@@ -1,6 +1,6 @@
 # SmartSnake
 
-![Alt Text](figure/snake.gif)
+![Alt Text](figure/snake_.gif)
 
 
 ### Run
