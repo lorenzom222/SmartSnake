@@ -1,7 +1,7 @@
 # SmartSnake
 
 ![Alt Text](figure/snake.gif)
-
+#
 
 ### Run
 ```
